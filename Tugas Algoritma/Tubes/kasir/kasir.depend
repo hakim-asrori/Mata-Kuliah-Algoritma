@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602774791 source:c:\users\hakim\desktop\tugas algoritma\tubes\kasir\main.cpp
+	<conio.h>
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+

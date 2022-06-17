@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602599936 source:c:\users\hakim\desktop\tugas algoritma\hakim asrori - tugas 7\no 2\main.cpp
+	<iostream>
+	<iomanip>
+	<conio.h>
+
